@@ -15,6 +15,10 @@ const PORT = process.env.PORT || 3000;
 app.use(cors());
 app.use(bodyParser.json());
 
+app.get('/', (req, res) => {
+  res.send('API Talento Tech funcionando correctamente');
+});
+
 // Rutas
 app.use('/api', productsRoutes);
 app.use('/auth', authRoutes);
