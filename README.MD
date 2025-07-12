@@ -1,38 +1,31 @@
-# Talento Tech - API de Productos
+# 🚀 API REST de Productos | Talento Tech
 
-Proyecto final del curso **Node.js** para administrar productos con **Firestore** y autenticación **JWT**.
-
-## Autora
-
-Gisela Gindelli
-
-## Tecnologías
-
-- Node.js
-- Express
-- Firebase Firestore
-- JSON Web Token (JWT)
-- dotenv
-- body-parser
-- cors
-
-## Uso
-
-1. Configurar las variables de entorno en el archivo `.env`.
-2. Ejecutar `npm install` para instalar dependencias.
-3. Ejecutar `npm run start` para iniciar el servidor.
-4. Usar Postman o cualquier cliente HTTP para probar los endpoints.
-
-## Endpoints principales
-
-| Método | Ruta                     | Descripción                      | Requiere Token |
-|--------|--------------------------|---------------------------------|---------------|
-| POST   | `/auth/login`             | Login con usuario y contraseña   | No            |
-| GET    | `/api/products`           | Obtener todos los productos      | Sí            |
-| GET    | `/api/products/:id`       | Obtener producto por ID          | Sí            |
-| POST   | `/api/products/create`    | Crear un nuevo producto          | Sí            |
-| DELETE | `/api/products/:id`       | Eliminar producto por ID         | Sí            |
+**Proyecto Final - Curso Node.js TALENTO TECH**  
+📅 Julio 2025  
+👩‍💻 Autora: **Gisela Gindelli**
 
 ---
 
-¡Gracias por revisar el proyecto! 
+## 📝 Descripción del Proyecto
+
+API RESTful para administrar un catálogo de productos, protegida con autenticación por token (JWT) y conectada a una base de datos **NoSQL en Firebase Firestore**.  
+Permite realizar operaciones **CRUD** (Crear, Leer, Eliminar) y manejar errores y seguridad.
+
+---
+
+## 🧰 Tecnologías Utilizadas
+
+- ⚙️ **Node.js** + **Express**
+- 🔐 **JWT** (JSON Web Tokens)
+- ☁️ **Firebase Firestore**
+- 🌐 **CORS**  
+- 🧪 **Postman** (testing)
+- ⚙️ **dotenv**
+- 📦 **body-parser**
+- 📁 **Git + GitHub**
+- 🚀 **Vercel** (deploy)
+
+---
+
+
+
