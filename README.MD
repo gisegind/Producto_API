@@ -13,7 +13,7 @@ Permite realizar operaciones **CRUD** (Crear, Leer, Eliminar) y manejar errores 
 
 🔗 API desplegada: [https://producto-api.vercel.app](https://producto-api.vercel.app)
 
-git ---
+
 
 ## 🧰 Tecnologías Utilizadas
 
@@ -27,7 +27,7 @@ git ---
 - 📁 **Git + GitHub**
 - 🚀 **Vercel** (deploy)
 
----
+
 
 
 
