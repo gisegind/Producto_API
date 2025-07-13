@@ -8,7 +8,7 @@
 
 👩‍💻 Autora: Gisela Gindelli 
 
-✍️ Profesor : Jean Paul Ferreira
+✍️ Profesor: Jean Paul Ferreira
 
 ---
 
